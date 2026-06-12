@@ -21,7 +21,7 @@ The project combines district-level demographic and banking data, applies data p
 Data was compiled from publicly available government and banking-related sources, including:
 
 - Census of India - https://censusindia.gov.in/census.website/data/census-tables
-- Reserve Bank of India (RBI)- data.gov.in / RBI banking infrastructure datasets
+- Reserve Bank of India (RBI) - https://data.rbi.org.in/DBIE/#/banking-outlet
 
 ## Features
 
